@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm looking for my first professional experience
-- 🌱 I’m currently learning HTML,CSS,JS(NODE), TYPESCRIPT
-- 📫 How to reach me: victorhugo.martins2@outlook.com
+- 🔭 I'm looking for <h3>my first professional experience</h3>
+- 🌱 I’m currently learning <h3>HTML,CSS,JS(NODE), TYPESCRIPT</h3>
+- 📫 How to reach me: <a>victorhugo.martins2@outlook.com</a>
 -->
