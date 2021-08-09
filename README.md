@@ -7,6 +7,6 @@ What I'm currently doing:
 
 - 🔭 I'm looking for my first professional experience
 - 
-- 🌱 I’m currently learning: <h5>HTML,CSS,JS(NODE), TYPESCRIPT</h5>
+- 🌱 I’m currently learning: <h5>HTML, CSS, JS, NODE.JS, TYPESCRIPT</h5>
 - 
 - 📫 How to reach me: <a>victorhugo.martins2@outlook.com</a>
