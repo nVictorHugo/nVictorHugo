@@ -18,7 +18,7 @@ Sou Victor Hugo, um entusiasta de desenvolvimento de software, e este é o meu e
 ## Contato
 
 - 📫 Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, fique à vontade para entrar em contato comigo.
-- 🌐 Você também pode encontrar mais informações sobre mim e meus projetos no meu [website pessoal](https://pijasapp.herokuapp.com/) e no meu perfil do [LinkedIn](https://www.linkedin.com/in/victorhugoms/).
+- 🌐 Você também pode encontrar mais informações sobre mim e meus projetos no meu [website pessoal]() e no meu perfil do [LinkedIn](https://www.linkedin.com/in/victorhugoms/).
 
 ## Contribuição
 
